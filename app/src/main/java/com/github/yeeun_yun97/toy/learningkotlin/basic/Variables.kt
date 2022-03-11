@@ -31,6 +31,7 @@ fun main(args: Array<String>){
     //typeof, val, var, when, while
 
 
-
+    //코틀린도 자바와 마찬가지로, camelCase 표기법을 사용하는 것이 일반적이다.
+    //언제나 스스로에게 말하는 것이지만! 어떤 언어든 그 언어답게 사용하는게 제일 이쁘다! 명심!!
 
 }
